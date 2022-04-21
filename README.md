@@ -38,7 +38,7 @@
     <br />
     <p style="font-size: 25px">Are you a tried and true Penn State Fan? Currently, studying at Penn State and want to rock those colors while developing new applications? Look no further, ladies and gents; I have supplied a Penn State Visual Studio Code Theme!<strong>#WEARE! (image below is currently a placeholder)</strong></p>
     <img src="images/opengraph-home.png">
-    <p style="font-size: 25px">This color scheme is based on Penn State, their color scheme, and even pulling some hints of Nittany Himself! :bearpaw: So, as a current student, why not show some pride!
+    <p style="font-size: 25px">This color scheme is based on Penn State, their color scheme, and even pulling some hints of Nittany Himself! :bear: So, as a current student, why not show some pride!
     </p>
     <br />
     <br />
