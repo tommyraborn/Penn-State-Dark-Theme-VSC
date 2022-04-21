@@ -1,0 +1,21 @@
+{
+    "name": "penn-state-dark-vsc",
+    "displayName": "Penn State Dark",
+    "description": "Visual Studio Code Theme based around Penn State's colors found on: sites.psu.edu/liberalartscommunications/branding/colors!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Penn State Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Penn State Dark-color-theme.json"
+            }
+        ]
+    }
+}
